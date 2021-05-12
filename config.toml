@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "My New Hugo Site"
+theme = "Anatole"
+contentDir = "content"
+publishDir = "docs"
+
+[params]
+title = "I'm Jane Doe"
+author = "Jane Doe"
+description = "Call me Jane"
+profilePicture = "images / ![R1e77643c04d5eaba1a7254f23592a8e6](https://user-images.githubusercontent.com/83796113/117908512-7c887400-b313-11eb-9107-2de043c55f71.jpg)"
+images = [ " images / R1e77643c04d5eaba1a7254f23592a8e6.jpg "]
+

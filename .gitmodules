@@ -1,0 +1,21 @@
+[submodule "themes/Iris"]
+	path = themes/Iris
+	url = https://github.com/tanaka-chi/BBS_repository.git
+[submodule "tanaka-chi.github.io"]
+	path = tanaka-chi.github.io
+	url = https://github.com/tanaka-chi/tanaka-chi.github.io.git
+[submodule "themes/iris"]
+	path = themes/iris
+	url = https://github.com/peaceiris/hugo-theme-iris.git
+[submodule "themes/hugo-theme-yinyang"]
+	path = themes/hugo-theme-yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
+[submodule "themes/themes/yinyang"]
+	path = themes/themes/yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
+[submodule "themes/Anatole"]
+	path = themes/Anatole
+	url = https://github.com/lxndrblz/anatole.git
