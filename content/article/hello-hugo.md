@@ -1,7 +1,8 @@
 ---
-title: "Hello Hugo"
+title: "チコリータ"
 date: 2021-05-11
 ---
-headTitle = "hello"
+はっぱポケモン
+くさタイプ
 
-![R1e77643c04d5eaba1a7254f23592a8e6](https://user-images.githubusercontent.com/83796113/117908512-7c887400-b313-11eb-9107-2de043c55f71.jpg)
+![](https://zukan.pokemon.co.jp/zukan-api/up/images/index/cf70c6be9a81972f5d18b93dedcb456e.png)
