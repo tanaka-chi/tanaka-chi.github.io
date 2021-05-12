@@ -9,3 +9,5 @@ publishDir = "docs"
 title = "かわいいポケモン"
 author = "cute"
 description = "お気に入りのポケモンを紹介します"
+fullPostContent = false
+
