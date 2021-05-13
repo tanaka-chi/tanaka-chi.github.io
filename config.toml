@@ -4,10 +4,10 @@ title = "My Favorite Pokemon"
 theme = "Anatole"
 contentDir = "content"
 publishDir = "docs"
+hasCJKLanguage = true
+summaryLength = 0
 
 [params]
 title = "かわいいポケモン"
 author = "cute"
 description = "お気に入りのポケモンを紹介します"
-fullPostContent = false
-
